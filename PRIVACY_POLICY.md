@@ -13,5 +13,3 @@ Any future online features will require an updated policy before those features 
 Publisher: **Maaz Haider**
 
 Support email: [maazhaider0011@gmail.com](mailto:maazhaider0011@gmail.com)
-
-This document must be hosted at a publicly accessible URL and linked in Play Console before publication. The in-game Settings screen also provides the current local-data privacy summary.
